@@ -1,2 +1,2 @@
 # gerador-de-senha
- Patricando JS HTML E CSS
+ Patricando JavaScript HTML E CSS
